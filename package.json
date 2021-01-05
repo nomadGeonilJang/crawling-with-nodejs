@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/nomadGeonilJang/crawling-with-nodejs#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.3",
     "csv-parse": "^4.6.3",
     "csv-stringify": "^5.3.3",
